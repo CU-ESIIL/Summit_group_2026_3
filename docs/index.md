@@ -1,5 +1,5 @@
 ---
-title: Team Home
+title: Sustainable and Ethical AI
 public_mode_toggle: true
 ---
 
@@ -62,8 +62,13 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
-| | | | |
+|Rosana Aguilera |University of California San Diego |r1aguilerabecker@ucsd.edu |raguilbeck |
+|Chamisa Edmo| University of Kansas|chamisa@ku.edu | ChamisaE|
+|Rachel Mador-House|NA|rachelmador@gmail.com|rachelmador|
+|Alexis O’Callahan|University of Arkansas|aocallah@uark.edu; ocallahana@gmail.com|ocallahana|
+|Julie Peeling|Cornell University|jap479@cornell.edu|JuliePeeling|
+|Foster Sawyer|Oglala Lakota College|jfsawyer@olc.edu |TBD|
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -86,10 +91,18 @@ public_mode_toggle: true
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
+Clear communication of bandwidth
+Respect and comfort with individual boundaries
+Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)
+Open to iteration and consensus-based decision making (can walk things back)
+Take pause; work in pauses
 
-- ...
-- ...
-- ...
+- Clear communication of bandwidth
+- Respect and comfort with individual boundaries
+- Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)
+- Open to iteration and consensus-based decision making (can walk things back)
+- Take pause; work in pauses to make sure all voices have a chance to participate
+
 
 Our decision making strategy:
 
