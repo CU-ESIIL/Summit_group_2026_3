@@ -91,12 +91,6 @@ public_mode_toggle: true
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
-Clear communication of bandwidth
-Respect and comfort with individual boundaries
-Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)
-Open to iteration and consensus-based decision making (can walk things back)
-Take pause; work in pauses
-
 - Clear communication of bandwidth
 - Respect and comfort with individual boundaries
 - Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)
@@ -105,7 +99,7 @@ Take pause; work in pauses
 
 
 Our decision making strategy:
-
+Debate and commit, voting.
 ...
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
