@@ -116,12 +116,13 @@ Debate and commit, voting.
 
 Short term:
 
-- Table
+- Conceptual Map/Mind Map of AI Domains (what are our societal and environmental concerns?)
+- Table of ethical domains related to AI + resources for understanding impacts
 
 Long term:
 
 - Website + storymap
-- Inform policy
+- Ultimately inform policy
 
 ![Day 2 morning whiteboard 1](assets/Img1.jpeg)
 ![Day 2 morning whiteboard 2](assets/Img2.jpeg)
@@ -139,7 +140,7 @@ How can we engage and educate communities to make ethical and critical decisions
 ## Intentions 
 1. To create a table that enumerates the domains that A.I. has/can impact to help orient conversations on ethics
 2. To develop a web/digital interface matching domains with resources (case studies, academic literature, news pieces, blogs) and enriching it with diagrams and visuals
-3. Ultimately: leverage our table + story map to help inform use of A.I. by environmental scientists and policy formulation for Tribal decision-making and policymakers
+3. Ultimately: leverage our table + story map 1) to help guide the use of A.I. by environmental scientists and 2) to aid in policy formulation for Tribal decision-makers and in other governance structures
 <!-- <img width="1182" height="216" alt="image" src="https://github.com/user-attachments/assets/dec089a6-72d3-4dab-8ac8-51ceac897594" /> -->
 
 
@@ -147,6 +148,7 @@ How can we engage and educate communities to make ethical and critical decisions
 
 This matters because:
 - Societal and environmental consequences
+- Conversations are difficult (we hope our table helps orient and guide discussions)
 
 People who could use this:
 - Scientists, especially environmental data scientists
@@ -169,6 +171,7 @@ Promising data sources:
 - FAIR + CARE Principles
 - Looking across disciplines (STS studies, critical remote sensing, etc)
 - News articles + personal testimonies about the socio-ecological impacts of A.I.
+- [Group Bibliography]((https://www.zotero.org/groups/6552612/esiil_2026_team_3_ethical_ai))
 
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
