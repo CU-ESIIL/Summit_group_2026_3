@@ -146,12 +146,15 @@ How can we engage and educate communities to make ethical and critical decisions
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
-
-...
+- Societal and environmental consequences
 
 People who could use this:
+- Scientists, especially environmental data scientists
+- The public
+- Local communities
+- Tribal nations
+- Policymakers
 
-...
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
