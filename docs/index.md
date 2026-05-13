@@ -134,13 +134,13 @@ Long term:
 Our working question:
 
 How can we engage and educate communities to make ethical and critical decisions regarding AI usage? Can we apply existing frameworks such as the CARE principles to ensure awareness of environmental considerations, indigenous data sovereignty, and community health?
-<img width="1192" height="110" alt="image" src="https://github.com/user-attachments/assets/baf3052a-3195-4026-bd1f-d5ed54ee183d" />
+<!-- <img width="1192" height="110" alt="image" src="https://github.com/user-attachments/assets/baf3052a-3195-4026-bd1f-d5ed54ee183d" /> -->
 
 ## Intentions 
 1. To create a table that enumerates the domains that A.I. has/can impact to help orient conversations on ethics
 2. To develop a web/digital interface matching domains with resources (case studies, academic literature, news pieces, blogs) and enriching it with diagrams and visuals
 3. Ultimately: leverage our table + story map to help inform use of A.I. by environmental scientists and policy formulation for Tribal decision-making and policymakers
-<img width="1182" height="216" alt="image" src="https://github.com/user-attachments/assets/dec089a6-72d3-4dab-8ac8-51ceac897594" />
+<!-- <img width="1182" height="216" alt="image" src="https://github.com/user-attachments/assets/dec089a6-72d3-4dab-8ac8-51ceac897594" /> -->
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
