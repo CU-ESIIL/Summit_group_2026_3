@@ -168,6 +168,7 @@ Promising data sources:
 
 - FAIR + CARE Principles
 - Looking across disciplines (STS studies, critical remote sensing, etc)
+- News articles + personal testimonies about the socio-ecological impacts of A.I.
 
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
