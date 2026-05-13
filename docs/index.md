@@ -67,7 +67,7 @@ public_mode_toggle: true
 |Rachel Mador-House|NA|rachelmador@gmail.com|rachelmador|
 |Alexis O’Callahan|University of Arkansas|aocallah@uark.edu; ocallahana@gmail.com|ocallahana|
 |Julie Peeling|Cornell University|jap479@cornell.edu|JuliePeeling|
-|Foster Sawyer|Oglala Lakota College|jfsawyer@olc.edu |TBD|
+|Foster Sawyer|Oglala Lakota College|jfsawyer@olc.edu|johnfostersawyer|
 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
