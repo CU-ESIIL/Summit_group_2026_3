@@ -68,6 +68,9 @@ public_mode_toggle: true
 |Alexis O’Callahan|University of Arkansas|aocallah@uark.edu; ocallahana@gmail.com|ocallahana|
 |Julie Peeling|Cornell University|jap479@cornell.edu|JuliePeeling|
 |Foster Sawyer|Oglala Lakota College|jfsawyer@olc.edu |TBD|
+|Alicia Swimmer|Sicangu Climate Center|aliciaswimmer@gmail.com|zuyatawa|
+|Jennifer Martel|Peta Omniciye, Inc.|jennifer.martel@petaomniciye.org|twolancewoman|
+|Philimon Two Eagle|Sicangu Lakota Treaty Council|phil.twoeagle@rst-nsn.gov|TBD|
 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
