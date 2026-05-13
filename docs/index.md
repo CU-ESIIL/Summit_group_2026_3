@@ -116,12 +116,12 @@ Debate and commit, voting.
 
 Short term:
 
-...
+- Table
 
 Long term:
 
-- ...
-- ...
+- Website + storymap
+- Inform policy
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
@@ -131,13 +131,14 @@ Long term:
 
 Our working question:
 
-...
+How can we engage and educate communities to make ethical and critical decisions regarding AI usage? Can we apply existing frameworks such as the CARE principles to ensure awareness of environmental considerations, indigenous data sovereignty, and community health?
+<img width="1192" height="110" alt="image" src="https://github.com/user-attachments/assets/baf3052a-3195-4026-bd1f-d5ed54ee183d" />
 
-What would count as progress:
-
-...
-
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
+## Intentions 
+1. To create a table that enumerates the domains that A.I. has/can impact to help orient conversations on ethics
+2. To develop a web/digital interface matching domains with resources (case studies, academic literature, news pieces, blogs) and enriching it with diagrams and visuals
+3. Ultimately: leverage our table + story map to help inform use of A.I. by environmental scientists and policy formulation for Tribal decision-making and policymakers
+<img width="1182" height="216" alt="image" src="https://github.com/user-attachments/assets/dec089a6-72d3-4dab-8ac8-51ceac897594" />
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
@@ -152,9 +153,6 @@ People who could use this:
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
-    Provide a snapshot showing some initial data patterns. 
-
     Add 2-4 promising data sources (links +1-line notes)    
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
@@ -163,15 +161,15 @@ People who could use this:
 
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- FAIR + CARE Principles
+- Looking across disciplines (STS studies, critical remote sensing, etc)
+
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
+   - Discourse and deliberation
+   - Literature reviews
 
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_3/tree/main/code){ .md-button }
 
