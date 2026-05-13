@@ -123,8 +123,8 @@ Long term:
 - Website + storymap
 - Inform policy
 
-![Day 2 morning whiteboard 1](assets/whiteboards/img1.jpeg)
-![Day 2 morning whiteboard 2](assets/whiteboards/img2.jpeg)
+![Day 2 morning whiteboard 1](assets/Img1.jpeg)
+![Day 2 morning whiteboard 2](assets/Img2.jpeg)
 
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
