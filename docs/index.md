@@ -69,8 +69,8 @@ public_mode_toggle: true
 |Julie Peeling|Cornell University|jap479@cornell.edu|JuliePeeling|
 |Foster Sawyer|Oglala Lakota College|jfsawyer@olc.edu|johnfostersawyer|
 |Alicia Swimmer|Sicangu Climate Center|aliciaswimmer@gmail.com|ZuyaTawa|
-|Jennifer Martel|Sicangu Climate Center|jennifer.martel@petaomniciye.org|TBD|
-|Phil Two Eagle|Sicangu Climate Center|phil.twoeagle@rst-msn.gov|TBD|
+|Jennifer Martel|Sicangu Climate Center|jennifer.martel@petaomniciye.org|TwoLanceWoman|
+|Phil Two Eagle|Sicangu Climate Center|phil.twoeagle@rst-msn.gov|pd2eagle|
 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
