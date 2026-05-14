@@ -136,7 +136,11 @@ Debate and commit, voting.
 
 <h3>Our working question:</h3>
 
-<h4> How can we engage and educate communities to make ethical and critical decisions regarding AI usage? Can we apply existing frameworks such as the CARE principles to ensure awareness of environmental considerations, indigenous data sovereignty, and community health?</h4>
+<ul> 
+    <li>How can we engage and educate communities to make ethical and critical decisions regarding AI usage? </li>
+    <li>Can we apply existing frameworks such as the CARE principles to ensure awareness of environmental considerations, indigenous data sovereignty, and community health?</li>
+    <li>How do the impacts/concerns/potential harms/fears of AI differ and/or overlap with prior discourse and existing frameworks from data science, surveillance, and remote sensing?</li>
+</ul>
 <!-- <img width="1192" height="110" alt="image" src="https://github.com/user-attachments/assets/baf3052a-3195-4026-bd1f-d5ed54ee183d" /> -->
 
 ## Intentions 
