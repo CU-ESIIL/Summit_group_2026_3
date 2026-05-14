@@ -209,7 +209,7 @@ Debate and commit, voting.
 
 ### Visuals
 
-![Method or workflow visual](assets/figures/team3.png)
+![Method or workflow visual](assets/figures/AItable2.png)
 
 ### Next Steps
 
