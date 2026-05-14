@@ -36,7 +36,7 @@ public_mode_toggle: true
 
 ![Team hero image](assets/hero/AIRabbit.png)
 
-!!! note "How to replace the image above"
+<!-- !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
     
     Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
@@ -46,9 +46,9 @@ public_mode_toggle: true
 
 
 [See a completed example](example.md){ .md-button }
-
+-->
 ## People { #people .oasis-report-out-context }
-
+<!--
 !!! note "Day 1 task"
     Get to know your team: share your cards (5-7 mins). Update your team roster (2-3 min).
 
@@ -59,7 +59,7 @@ public_mode_toggle: true
     | ![Name card prompts for name, institution, area of expertise, research difference, and questions](assets/team/name-card-prompts.png) | ![Follow-up notes card with space for names and follow-up ideas](assets/team/name-card-followups.png) |
 
     [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_3/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
-
+-->
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
 |Rosana Aguilera |University of California San Diego |r1aguilerabecker@ucsd.edu |raguilbeck |
