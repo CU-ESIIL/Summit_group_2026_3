@@ -178,7 +178,7 @@ Debate and commit, voting.
     <li>FAIR + CARE Principles</li>
     <li>Looking across disciplines (STS studies, critical remote sensing, etc)</li>
     <li>News articles + personal testimonies about the socio-ecological impacts of A.I.</li>
-    <li>[Group Bibliography]((https://www.zotero.org/groups/6552612/esiil_2026_team_3_ethical_ai))</li>
+    <li>[Group Bibliography](https://www.zotero.org/groups/6552612/esiil_2026_team_3_ethical_ai)</li>
 </ul>
 
 ## Platforms/Technologies we’re exploring 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
