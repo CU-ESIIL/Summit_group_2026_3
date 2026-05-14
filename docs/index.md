@@ -119,11 +119,17 @@ Debate and commit, voting.
 
 - Conceptual Map/Mind Map of AI Domains (what are our societal and environmental concerns?)
 - Table of ethical domains related to AI + resources for understanding impacts
+- Team building
+- Seminar hosted at Oglala Lakota College
+- Better define the issues and effective approaches
 
 <h3>Long term:</h3>
 
 - Website + storymap
-- Ultimately inform policy
+- AI guidelines for governance
+- Educational role play
+- Develop an LLM for people to consult with AI ethics questions
+- Keep evolving the project!
 
 ![Day 2 morning whiteboard 1](assets/Img1.jpeg)
 ![Day 2 morning whiteboard 2](assets/Img2.jpeg)
@@ -200,19 +206,17 @@ Debate and commit, voting.
 | NAS Report | Brainstorm | ... |
 | Regulations for Government | Brainstorm | ... |
 | Prepare materials for educating ESIIL about AI, e.g., ESIIL stars | Brainstorm | ... |
-| Fostering Conversations | Brainstorm | ... |
+| Fostering Conversations (Collaborative Seminar) | Brainstorm | ... |
 
 ### Challenges identified
 
 - Personal: bandwidth, personal feelings regarding AI use may not be consistent between team members, learning curve, people need/want different types of outputs or deliverables, interest areas may not be consistent across all team members
-- Group: lacks some expertise needed for execution, difficult conversations due to sensitive topic, logistics of continued engagement
-- Topic: sensitive conversations, many groups and stakeholders have deep assumptions about AI and so communication can be challenging, a very broad topic that can lead in many directions, a new field so not as much data or frameworks already published to pull from
+- Group: lacks some expertise needed for execution, difficult conversations due to sensitive topic, logistics of continued engagement, representing diverse concerns wihtin a relatively small group (room to increase inclusion)
+- Topic: sensitive conversations, many groups and stakeholders have deep assumptions about AI and so communication can be challenging, a very broad topic that can lead in many directions, a new field so not as much data or frameworks already published to pull from, conversations regarding the intersectionality of complex and broad topics
 
 ### Visuals
-
-![Method or workflow visual1](assets/figures/AItable.png)
+![Method or workflow visual1](assets/figures/WhatIsAI.png)
 ![Method or workflow visual2](assets/figures/AItopics.png)
-![Method or workflow visual3](assets/figures/WhatIsAI.png)
 
 
 <!--
@@ -260,7 +264,8 @@ Short term:
 Long term: 
 - Zoom seminar for TCUs and other interested entities to share information and ideas (hosted by Oglala Lakota College and KU)
 - Prepare an ESIIL working group proposal
-- Develop a model/LLM that people can ask questions to 
+- Develop a model/LLM that people can ask questions to
+- Develop R1-TCU partnerships and foster cross-sector partnerships
 
 Who should see this next:
 - No one, and everyone - Everyone, Everywhere, All At Once, Later
