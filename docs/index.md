@@ -226,7 +226,7 @@ Long term:
 
 ## Team Photo { #team-photo }
 
-![Team photo](assets/team/GroupPhoto.jpg)
+![Team photo](assets/team/GroupPhoto.jpeg)
 
 *Team members and collaborators who contributed to this project.*
 
