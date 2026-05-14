@@ -1,5 +1,5 @@
 ---
-title: Sustainable and Ethical AI
+title: AI for Whom?: Empowering Communities to Shape the Impact of AI
 public_mode_toggle: true
 ---
 
@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 -->
-# Team 3 Home: Sustainable and Ethical AI
+# Team 3 Home: AI for Whom?: Empowering Communities to Shape the Impact of AI (working)
 
 <!--!!! note "Day 1 directions"
     Change the title to the name of your project.
