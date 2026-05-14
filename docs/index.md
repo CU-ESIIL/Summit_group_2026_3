@@ -214,16 +214,6 @@ Debate and commit, voting.
 ![Method or workflow visual2](assets/figures/AItopics.png)
 ![Method or workflow visual3](assets/figures/WhatIsAI.png)
 
-### Next Steps
-
-Short term: 
-- Create recurring meeting in our calendars to continue the conversation
-- At meetings make sure we have an output scheduled for each week
-
-Long term: 
-- Zoom seminar for TCUs and other interested entities to share information and ideas (hosted by Oglala Lakota College and KU)
-- Prepare an ESIIL working group proposal
-- Develop a model/LLM that people can ask questions to 
 
 <!--
 !!! note "Day 3 Tasks"
@@ -263,17 +253,18 @@ Headline 3 — implication for practice or policy
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
-Short term:
+Short term: 
+- Create recurring meeting in our calendars to continue the conversation
+- At meetings make sure we have an output scheduled for each week
 
-- ...
+Long term: 
+- Zoom seminar for TCUs and other interested entities to share information and ideas (hosted by Oglala Lakota College and KU)
+- Prepare an ESIIL working group proposal
+- Develop a model/LLM that people can ask questions to 
 
-Long term:
+Who should see this next:
+- No one, and everyone - Everyone, Everywhere, All At Once, Later
 
-- ...
-
-Who should see this next
-
-- ...
 
 ## Cite & Reuse { #cite-reuse }
 
