@@ -134,7 +134,7 @@ Debate and commit, voting.
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-<h3>Our working question:</h3>
+<h3>Our working questions:</h3>
 
 <ul> 
     <li>How can we engage and educate communities to make ethical and critical decisions regarding AI usage? </li>
