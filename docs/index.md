@@ -192,15 +192,15 @@ Debate and commit, voting.
 -->
 <h3>Methods/technologies we are exploring:</h3>
 
-| Method or technology | What we Tested | Early Notes |
+| Method or technology | What we tested | Early notes |
 |---|---|---|
-| Resource Wiki | Brainstorm | ... | 
+| Resource Wiki | Brainstorm | ... |
 | Multimedia/digital product | Brainstorm | ... |
 | Document Hub | Brainstorm | ... |
 | Ask an AI Expert Hotline | Brainstorm | ... |
 | NAS Report | Brainstorm | ... |
 | Regulations for Government | Brainstorm | ... |
-| Prepare materials for educating ESIIL about AI (e.g., ESIIL stars?) | Brainstorm | ... |
+| Prepare materials for educating ESIIL about AI, e.g., ESIIL stars | Brainstorm | ... |
 | Fostering Conversations | Brainstorm | ... |
 
 ### Challenges identified
