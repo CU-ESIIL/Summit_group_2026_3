@@ -151,18 +151,20 @@ Debate and commit, voting.
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
+<h3>This matters because:</h3>
+<ul>
+    <li>Societal and environmental consequences</li>
+    <li>Conversations are difficult (we hope our table helps orient and guide discussions)</li>
+</ul>
 
-This matters because:
-- Societal and environmental consequences
-- Conversations are difficult (we hope our table helps orient and guide discussions)
-
-People who could use this:
-- Scientists, especially environmental data scientists
-- The public
-- Local communities
-- Tribal nations
-- Policymakers
-
+<h3>People who could use this:</h3>
+<ul>
+    <li>Scientists, especially environmental data scientists</li>
+    <li>The public</li>
+    <li>Local communities</li>
+    <li>Tribal nations</li>
+    <li>Policymakers</li>
+</ul>
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
