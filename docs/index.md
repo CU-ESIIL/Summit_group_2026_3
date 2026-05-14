@@ -166,15 +166,15 @@ Debate and commit, voting.
     <li>Policymakers</li>
 </ul>
 
-## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
-
+## Resources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
+<!--
     Add 2-4 promising data sources (links +1-line notes)    
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 
 *Snapshot showing initial data patterns.*
-
-Promising data sources:
+-->
+<h3>Promising resources:</h3>
 <ul>
     <li>FAIR + CARE Principles</li>
     <li>Looking across disciplines (STS studies, critical remote sensing, etc)</li>
