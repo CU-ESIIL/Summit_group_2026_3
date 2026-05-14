@@ -265,6 +265,8 @@ Long term:
 Who should see this next:
 - No one, and everyone - Everyone, Everywhere, All At Once, Later
 
+## Collected Resources
+[Resources](https://onedrive.live.com/:x:/g/personal/43CB2592B4312BEC/IQAQ-y5DJusjT7VQ6f--Mn75ASaad0l_u28RPKEp9roVUYo?resid=43CB2592B4312BEC!s432efb10eb264f23b550e9ffbe327ef9&ithint=file%2Cxlsx&e=xhQdd2&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy80M2NiMjU5MmI0MzEyYmVjL0lRQVEteTVESnVzalQ3VlE2Zi0tTW43NUFTYWFkMGxfdTI4UlBLRXA5cm9WVVlvP2U9eGhRZGQy)
 
 ## Cite & Reuse { #cite-reuse }
 
