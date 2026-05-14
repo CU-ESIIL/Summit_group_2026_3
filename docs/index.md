@@ -230,6 +230,7 @@ Long term:
 
 *Team members and collaborators who contributed to this project.*
 
+<!--
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
 Headline 1 — what, where, how much
@@ -243,12 +244,14 @@ Headline 2 — change/trend/contrast
 Headline 3 — implication for practice or policy
 
 ...
-
+-->
+<!--
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 ![Story visual](assets/figures/main_result.png)
 
 *Visual 1: the main pattern or output we want people to remember.*
+-->
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
