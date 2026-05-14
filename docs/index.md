@@ -182,22 +182,26 @@ Debate and commit, voting.
     <li>[Group Bibliography]((https://www.zotero.org/groups/6552612/esiil_2026_team_3_ethical_ai))</li>
 </ul>
 
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
-
+## Platforms/Technologies we’re exploring 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
+<!--
 !!! note "methods"
    - Discourse and deliberation
    - Literature reviews
 
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_3/tree/main/code){ .md-button }
-
-Methods/technologies we are testing:
+-->
+Methods/technologies we are exploring:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+| Resource Wiki | Brainstorm | ... |
+| Multimedia/digital product | Brainstorm | ... |
+| Document Hub | Brainstorm | ... |
+| Ask an AI Expert Hotline | Brainstorm | ... |
+| NAS Report | Brainstorm | ... |
+| Regulations for Government | Brainstorm | ... |
+| Prepare materials for educating people in ESIIL about AI (e.g., ESIIL stars?) | Brainstorm | ... |
+| Fostering Conversations | Brainstorm | ... |
 
 ### Challenges identified
 
