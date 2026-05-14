@@ -190,7 +190,7 @@ Debate and commit, voting.
 
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_3/tree/main/code){ .md-button }
 -->
-Methods/technologies we are exploring:
+<h3>Methods/technologies we are exploring:</h3>
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
