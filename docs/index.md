@@ -204,8 +204,9 @@ Debate and commit, voting.
 
 ### Challenges identified
 
-- ...
-- ...
+- Personal: bandwidth, personal feelings regarding AI use may not be consistent between team members, learning curve, people need/want different types of outputs or deliverables, interest areas may not be consistent across all team members
+- Group: lacks some expertise needed for execution, difficult conversations due to sensitive topic, logistics of continued engagement
+- Topic: sensitive conversations, many groups and stakeholders have deep assumptions about AI and so communication can be challenging, a very broad topic that can lead in many directions, a new field so not as much data or frameworks already published to pull from
 
 ### Visuals
 
