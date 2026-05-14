@@ -115,12 +115,12 @@ Debate and commit, voting.
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_3/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-Short term:
+<h2>Short term:</h2>
 
 - Conceptual Map/Mind Map of AI Domains (what are our societal and environmental concerns?)
 - Table of ethical domains related to AI + resources for understanding impacts
 
-Long term:
+<h2>Long term:</h2>
 
 - Website + storymap
 - Ultimately inform policy
