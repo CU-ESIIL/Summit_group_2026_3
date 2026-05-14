@@ -76,7 +76,7 @@ public_mode_toggle: true
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Day 1 task"
+<!-- !!! note "Day 1 task"
 
     Suggested Self-Facilitation Instructions:
     
@@ -93,14 +93,14 @@ public_mode_toggle: true
     | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_3/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
-
-Our team norms:
-- Clear communication of bandwidth
-- Respect and comfort with individual boundaries
-- Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)
-- Open to iteration and consensus-based decision making (can walk things back)
-- Take pause; work in pauses to make sure all voices have a chance to participate
-
+-->
+<ul> Our team norms:
+<li>- Clear communication of bandwidth </li>
+<li>- Respect and comfort with individual boundaries</li>
+<li>- Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)</li>
+<li>- Open to iteration and consensus-based decision making (can walk things back)</li>
+<li>- Take pause; work in pauses to make sure all voices have a chance to participate</li>
+</ul>
 
 Our decision making strategy:
 Debate and commit, voting.
