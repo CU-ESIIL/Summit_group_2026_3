@@ -210,7 +210,9 @@ Debate and commit, voting.
 
 ### Visuals
 
-![Method or workflow visual](assets/figures/AItable.png)
+![Method or workflow visual1](assets/figures/AItable.png)
+![Method or workflow visual2](assets/figures/AItopics.png)
+![Method or workflow visual3](assets/figures/WhatIsAI.png)
 
 ### Next Steps
 
