@@ -168,12 +168,12 @@ People who could use this:
 *Snapshot showing initial data patterns.*
 
 Promising data sources:
-
-- FAIR + CARE Principles
-- Looking across disciplines (STS studies, critical remote sensing, etc)
-- News articles + personal testimonies about the socio-ecological impacts of A.I.
-- [Group Bibliography]((https://www.zotero.org/groups/6552612/esiil_2026_team_3_ethical_ai))
-
+<ul>
+    <li>FAIR + CARE Principles</li>
+    <li>Looking across disciplines (STS studies, critical remote sensing, etc)</li>
+    <li>News articles + personal testimonies about the socio-ecological impacts of A.I.</li>
+    <li>[Group Bibliography]((https://www.zotero.org/groups/6552612/esiil_2026_team_3_ethical_ai))</li>
+</ul>
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
