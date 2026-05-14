@@ -94,7 +94,8 @@ public_mode_toggle: true
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_3/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 -->
-<ul> Our team norms:
+Our team norms:
+<ul> 
 <li>Clear communication of bandwidth </li>
 <li>Respect and comfort with individual boundaries</li>
 <li>Team check-in (quick numerical check in before meetings surrounding bandwidth and current state; or pick a color)</li>
