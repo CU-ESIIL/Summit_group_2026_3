@@ -108,13 +108,13 @@ Debate and commit, voting.
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "Day 2 Tasks"
+<!--!!! note "Day 2 Tasks"
     Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
 
     Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_3/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
-
+-->
 <h2>Short term:</h2>
 
 - Conceptual Map/Mind Map of AI Domains (what are our societal and environmental concerns?)
